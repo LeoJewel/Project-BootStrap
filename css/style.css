@@ -1,0 +1,13 @@
+.div-one{
+    height: 200px;
+    width: 300px;
+    background-color: darkgrey;
+}
+
+@media screen and (max-width: 500px) {
+
+    body{
+        background-color: red;
+    }
+
+}
